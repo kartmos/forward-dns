@@ -1,4 +1,4 @@
-module github.com/kartmos/forward-dns/forwarder
+module github.com/kartmos/forward-dns
 
 go 1.24.0
 
